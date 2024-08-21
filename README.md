@@ -1,16 +1,26 @@
-# shopsocks
+<p align="center"><img src="https://i.ibb.co/rb3X1Ds/Frame-3.png" border="0"></p>
 
-A new Flutter project.
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-v3.22.0-blue?logo=flutter">
+  <img src="https://img.shields.io/badge/Version-1.0-purple">
+  
+</p>
 
-## Getting Started
+## About 
+Интернет магазин разработанный в рамках заказа на фриланс бирже. Разработан для webapp телеграмма, что позваоляет пользователям приобрести товар нен выходя из мессенджера. 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+<p align="center">
+<img src="https://i.ibb.co/R6BMQVQ/i-Phone-14-Pro-Max.png" border="0">
+<img src="https://i.ibb.co/6mSYbnp/Screens.png" alt="Screens" border="0">
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tech Stack
++ [Flutter](https://flutter.dev/) - Framework
++ [Dart](https://dart.dev/) - Language
++ [Google Fonts](https://fonts.google.com/) - Fonts
++ [Telegram WebApp]([https://dart.dev/](https://core.telegram.org/bots/webapps)) - Library
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Developers
++ [ITRacoon (Nikita Kuzmitch)](https://github.com/ITRACCON)
